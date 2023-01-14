@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+deit_tf.egg-info/PKG-INFO
+deit_tf.egg-info/SOURCES.txt
+deit_tf.egg-info/dependency_links.txt
+deit_tf.egg-info/top_level.txt
+vit/__init__.py
+vit/deit_models.py
+vit/vit_models.py

@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/reddragon/deit-tf',
     license='MIT',
-    packages=['deit-tf'],
+    packages=['vit'],
     # install_requires=['matplotlib'],
     package_data={
         # "deit-tf": ["fonts/*/*.*"]
